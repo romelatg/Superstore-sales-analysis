@@ -27,3 +27,37 @@ Data analysis project using Python, SQL Server, and Power BI.
 - Connected directly to SQL Server
 - Built star schema relationships in Model View
 - Created interactive dashboard with year slicer
+
+## SQL Business Questions
+
+1. Total revenue by region
+2. Top 10 products by sales
+3. Monthly revenue trend
+4. Customers with more than 5 orders
+5. Which category has the highest average order value
+
+---
+
+## Notes
+
+> The Power BI file connects to a local SQL Server instance (`SuperstoreDB`).
+> To use it locally, import the CSV files from the `/data` folder into your own
+> SQL Server instance, or connect Power BI directly to the CSV files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
